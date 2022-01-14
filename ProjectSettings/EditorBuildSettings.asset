@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/HayvanlarLevel.unity
+    guid: 48aa9248fa421a44198ca8553976ab6a
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/PuzzleLevel.unity
+    guid: 6c9a51722cec17c4a81bedf045af3713
+  - enabled: 1
+    path: Assets/Scenes/RenklerLevel.unity
+    guid: b008473fb942b97498719d252a233829
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/OrtaPuzzle.unity
+    guid: eb9efd2e46a264c4094e96d90d946e95
+  - enabled: 1
+    path: Assets/Scenes/Sayisal/SayilarLevel.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Sayisal/SayilarGameLevel.unity
+    guid: 1f1d63b78f5dddf4db4e5b11c197c2cb
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/KolayPuzzle.unity
+    guid: 8fda20142fef67f4b8d06d4ec8595192
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/ZorPuzzle.unity
+    guid: 2b0a4d59a1a58da46ad2601addf42d92
+  m_configObjects: {}
